@@ -24,6 +24,9 @@ Para executar os testes unitários execute:
 ```
 docker exec -it feegow-php-fpm-1 composer test
 ```
+O banco de dados estará disponível em localhost:26002
+
+Usuário: `webmaster` e senha `segredo`
 
 Para execução em ambiente sem o docker os requisitos são:
 - PHP 8.1 com extensão do Mysql
