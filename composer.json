@@ -1,5 +1,5 @@
 {
-    "name": "phtfao/Feegow",
+    "name": "phtfao/feegow",
     "type": "library",
     "require": {
         "guzzlehttp/guzzle": "^7.5"
